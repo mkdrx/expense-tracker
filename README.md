@@ -2,8 +2,13 @@
 
 ## Based on Udemy's React Course - Maximilian Schwarzmüller
 
-**Clone it**
+**To install dependencies:**
+```
+npm install
+```
 
-**npm install** to install dependencies
+**Run on http://localhost:3000 and the command to start dev mode**
+```
+npm start
+```
 
-**npm start** to start development mode
