@@ -2,13 +2,22 @@
 
 ## Based on Udemy's React Course - Maximilian Schwarzmüller
 
-**To install dependencies:**
-```
-npm install
+- Clone the project
+
+```bash
+  git clone https://github.com/mkdrx/expense-tracker.git
 ```
 
-**Run on http://localhost:3000 and the command to start dev mode**
+- Go to the project directory
+
+```bash
+  cd expense-tracker
 ```
-npm start
+
+- Install dependencies
+
+```bash
+  npm install
 ```
+
 
