@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import NewExpense from "./components/NewExpense/NewExpense";
 import Expenses from "./components/Expenses/Expenses";
 
+//
 /* Dummy data just to initialize the state */
 const DUMMY_EXPENSES = [
   {
